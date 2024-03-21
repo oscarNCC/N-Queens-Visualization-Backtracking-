@@ -24,19 +24,11 @@ python main_UI.py
 
 Follow the on-screen instructions to input the number of queens (N) and start the visualization.
 
-## Features
-
-- Interactive input for the number of queens.
-- Step-by-step visualization of the solving process.
-- Color-coded display for queens and the chessboard.
-- Automatic saving of the final board state as a PNG file.
 
 ## Dependencies
 
 - Python (3.x recommended)
 - Pygame
-
-
 
 
 ## Examples
