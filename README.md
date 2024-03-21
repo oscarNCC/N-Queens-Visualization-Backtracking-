@@ -1,5 +1,5 @@
 # N-Queens Visualization
-#### 4 X 4 solution
+
 
 
 #### 15 X 15 Solution 
