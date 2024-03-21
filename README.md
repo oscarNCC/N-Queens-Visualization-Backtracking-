@@ -1,7 +1,10 @@
 # N-Queens Visualization
-![image](https://example.com/image.png](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/4X4_final_solution.png) 
+#### 4 X 4 solution
 
-![image](https://example.com/image.png](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/15X15_final_solution.png) 
+
+#### 15 X 15 Solution 
+![image](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/15X15_final_solution.png) 
+
 
 ## Introduction
 
