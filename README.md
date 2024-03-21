@@ -1,6 +1,6 @@
 # N-Queens Visualization
-![Example Image]([https://example.com/image.png](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/4X4_final_solution.png)
-![Example Image]([https://example.com/image.png](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/15X15_final_solution.png)
+![image]([https://example.com/image.png](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/4X4_final_solution.png)
+![image]([https://example.com/image.png](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/15X15_final_solution.png)
 
 ## Introduction
 
