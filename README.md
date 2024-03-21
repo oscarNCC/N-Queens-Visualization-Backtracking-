@@ -1,6 +1,7 @@
 # N-Queens Visualization
-![image]([https://example.com/image.png](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/4X4_final_solution.png)
-![image]([https://example.com/image.png](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/15X15_final_solution.png)
+![image]([https://example.com/image.png](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/4X4_final_solution.png) 
+![image](https://github.com/oscarNCC/Tic-Tac-Toe-Game-w-Minimax-algorithm/blob/main/Screenshot.png) 
+![image]([https://example.com/image.png](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/15X15_final_solution.png) 
 
 ## Introduction
 
