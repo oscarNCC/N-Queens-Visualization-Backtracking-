@@ -3,8 +3,8 @@
 
 
 #### 15 X 15 Solution 
-![image](https://github.com/oscarNCC/N-Queens-Visualization/blob/main/15X15_final_solution.png) 
 
+![image](https://github.com/oscarNCC/N-Queens-Visualization/blob/main-Queen-Update/15X15_final_solution.png) 
 
 ## Introduction
 
