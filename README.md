@@ -28,7 +28,11 @@ python main_UI.py
 
 Follow the on-screen instructions to input the number of queens (N) and start the visualization.
 
+## How to plat
+Set the size of the board, then press "Start"
 
+## Config
+You may set the visualize speed by editing the "speed" variable(default = 0.5) in main_UI.py . 
 ## Dependencies
 
 - Python (3.x recommended)
